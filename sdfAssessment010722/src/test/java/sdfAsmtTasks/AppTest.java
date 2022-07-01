@@ -9,12 +9,11 @@ import org.junit.Test;
  */
 public class AppTest 
 {
-    /**
-     * Rigorous Test :-)
-     */
+
     @Test
-    public void shouldAnswerWithTrue()
+    public void testaverage()
     {
-        assertTrue( true );
+        assertEquals(55,
+        AverageNum.findAverage(new int[]{97,35,82,2,45}));
     }
 }

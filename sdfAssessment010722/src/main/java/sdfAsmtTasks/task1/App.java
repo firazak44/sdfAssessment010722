@@ -1,4 +1,4 @@
-package sdfAsmtTasks;
+package sdfAsmtTasks.task1;
 
 /**
  * Hello world!
